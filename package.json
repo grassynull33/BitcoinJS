@@ -1,0 +1,22 @@
+{
+  "name": "bitcoinjs",
+  "version": "1.0.0",
+  "description": "The clean, readable, proven library for Bitcoin JavaScript development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonslee/BitcoinJS.git"
+  },
+  "author": "Yoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonslee/BitcoinJS/issues"
+  },
+  "homepage": "https://github.com/yoonslee/BitcoinJS#readme",
+  "dependencies": {
+    "bitcoinjs-lib": "^3.3.1"
+  }
+}
